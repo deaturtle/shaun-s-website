@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html>  
+  <h1>Sean's Malupitan website</h1>
   <head>
     <title>ISANG ARAW NA LANG PASKO NA SA PANAGINIP KO KASI MAY COMPRE PA</title>
   </head>
   <body>
-    <h1>Sean's Malupitan website</h1>
+  
     <p>Ito ang aking website, website ko 'to, isa tong malupitang website, kaya Sean's malupitan website tawag dito.</p>
     <table>
       <tr>
